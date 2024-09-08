@@ -1,0 +1,21 @@
+{
+    "short_name"         : "バンバン",
+    "name"               : "バンバンシューティング",
+    "description"        : "シューティングスター",
+    "start_url"          : "/game/",
+    "background_color"   : "#00000",
+    "theme_colpr"        : "#0040c0",
+    "display"            : "standalone",
+    "icons": [
+        {
+            "scr" : "自機6.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        },
+        {
+            "scr" : "自機5.png",
+            "sizes" : "192x192",
+            "type" : "image/png"
+        }
+    ]
+}
